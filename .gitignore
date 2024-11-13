@@ -1,0 +1,6 @@
+ipch/
+release/
+x86/
+x64/
+*.sdf
+*.ncb
